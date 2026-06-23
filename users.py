@@ -33,6 +33,13 @@ users = [
         "age": 42,
         "hobby": "photography",
         "job": "programmer"
+    },
+    {
+        "firstName": "Max",
+        "lastName": "Hitch",
+        "age": 34,
+        "hobby": "music",
+        "job": "cleaner"
     }
 ]
 
